@@ -4,7 +4,7 @@
     "name": "Conductor-Test-Basics-VM-Setup",
     "description": "Create OpenStack VM with basic configuration",
     "html_url": "",
-    "zip_url": "",
+    "zip_url": "https://github.com/ssrivast21/test-conductor-blueprint/releases/download/conductor-test-blueprint/conductor_test_basic_vm.zip",
     "readme_url": "",
     "main_blueprint": "blueprint.yaml",
     "image_url": "",
