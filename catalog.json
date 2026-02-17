@@ -1,0 +1,14 @@
+[
+  {
+    "id": "conductor_test_basic_vm",
+    "name": "Conductor-Test-Basics-VM-Setup",
+    "description": "Create OpenStack VM with basic configuration",
+    "html_url": "",
+    "zip_url": "",
+    "readme_url": "",
+    "main_blueprint": "blueprint.yaml",
+    "image_url": "",
+    "created_at": "2026-01-30T00:00:00Z",
+    "updated_at": "2026-01-30T00:00:00Z"
+  }
+]
