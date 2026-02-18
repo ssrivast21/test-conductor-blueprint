@@ -1,10 +1,22 @@
 [
   {
-    "id": "conductor_test_basic_vm",
-    "name": "Conductor-Test-Basics-VM-Setup",
+    "id": "conductor_openstack_test_basic_vm",
+    "name": "Conductor-Openstack-Test-Basics-VM-Setup",
     "description": "Create OpenStack VM with basic configuration",
     "html_url": "",
-    "zip_url": "https://github.com/ssrivast21/test-conductor-blueprint/releases/download/conductor-test-blueprint/conductor_test_basic_vm.zip",
+    "zip_url": "https://github.com/ssrivast21/test-conductor-blueprint/releases/download/conductor_openstack_test_blueprint/conductor_openstack_test_blueprint.zip",
+    "readme_url": "",
+    "main_blueprint": "blueprint.yaml",
+    "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/other/openstack/vm/logo.png",
+    "created_at": "2026-01-30T00:00:00Z",
+    "updated_at": "2026-01-30T00:00:00Z"
+  },
+  {
+    "id": "conductor_kubernetes_test_blueprint",
+    "name": "Conductor-Kubernetes-Test",
+    "description": "Create Kubernetes",
+    "html_url": "",
+    "zip_url": "https://github.com/ssrivast21/test-conductor-blueprint/releases/download/conductor_kubernetes/conductor_kubernetes.zip",
     "readme_url": "",
     "main_blueprint": "blueprint.yaml",
     "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/other/openstack/vm/logo.png",
