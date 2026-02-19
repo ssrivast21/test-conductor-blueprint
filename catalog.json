@@ -7,7 +7,7 @@
     "zip_url": "https://github.com/ssrivast21/test-conductor-blueprint/releases/latest/download/conductor_openstack_test_blueprint.zip",
     "readme_url": "",
     "main_blueprint": "blueprint.yaml",
-    "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/other/openstack/vm/logo.png",
+    "image_url": "https://cloudify.co/wp-content/uploads/2020/07/kube-icon.png",
     "created_at": "2026-01-30T00:00:00Z",
     "updated_at": "2026-01-30T00:00:00Z"
   },
