@@ -2,7 +2,7 @@
   {
     "id": "conductor_openstack_test_basic_vm",
     "name": "Conductor-Openstack-Test",
-    "description": "Create OpenStack VM with basic configuration",
+    "description": "Create OpenStack Flavor",
     "html_url": "",
     "zip_url": "https://github.com/ssrivast21/test-conductor-blueprint/releases/latest/download/conductor_openstack_test_blueprint.zip",
     "readme_url": "",
